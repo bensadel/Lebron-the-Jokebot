@@ -23,6 +23,8 @@ Instructions:
 Disclaimer:
 * This model is not perfect by all means - there are errors
 
+Example:
+
 <p align="center">
   <img src="https://github.com/bensadel/Lebron-the-Jokebot/assets/95494769/bc9fc94f-d76f-48cf-bea1-fc7bef293c1a">
 </p>
