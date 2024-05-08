@@ -26,5 +26,6 @@ Disclaimer:
 Example:
 
 <p align="center">
-  <img src="https://github.com/bensadel/Lebron-the-Jokebot/assets/95494769/bc9fc94f-d76f-48cf-bea1-fc7bef293c1a">
+  <img src="https://github.com/bensadel/Lebron-the-Jokebot/assets/95494769/49ccf207-49fd-40f5-8e4f-c8c3354823af">
 </p>
+
