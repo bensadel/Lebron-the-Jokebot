@@ -10,6 +10,7 @@ Can ask the following topics below:
 Credit for tutorial: https://youtu.be/1lwddP0KUEg?si=YNbkMAm0F1e_VppO
 
 Tech used: 
+* Python
 * Miniconda for virtual environment 
 * Tensorflow - 2.13
 * NLTK - 3.8.1
