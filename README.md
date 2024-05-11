@@ -1,4 +1,4 @@
-# Lebron-the-Jokebot
+# Lebron-The-Jokebot
 
 Can ask the following topics below:
 * Greetings
