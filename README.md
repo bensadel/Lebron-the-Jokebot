@@ -27,8 +27,12 @@ Credit for tutorial: https://youtu.be/1lwddP0KUEg?si=YNbkMAm0F1e_VppO
 1. Train chatbot by running "python training.py"
 2. Activate chatbot by running "python chatbot.py"
 
+<br>
+
 <b><ins>Disclaimer:</ins></b>
 * This model is not perfect by all means - there are errors
+
+<br>
 
 <b><ins>Example:</ins><b>
 
