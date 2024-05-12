@@ -9,7 +9,7 @@
 
 Credit for tutorial: https://youtu.be/1lwddP0KUEg?si=YNbkMAm0F1e_VppO
 
-Tech used: 
+<b>Tech used: <b>
 * Python
 * Miniconda for virtual environment 
 * Tensorflow - 2.13
