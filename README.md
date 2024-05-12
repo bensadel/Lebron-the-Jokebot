@@ -7,7 +7,11 @@
 * Bot name
 * Jokes
 
+<br>
+
 Credit for tutorial: https://youtu.be/1lwddP0KUEg?si=YNbkMAm0F1e_VppO
+
+<br>
 
 <b><ins>Tech used:</ins></b>
 * Python
@@ -16,6 +20,8 @@ Credit for tutorial: https://youtu.be/1lwddP0KUEg?si=YNbkMAm0F1e_VppO
 * NLTK - 3.8.1
 * Pickle - 4.0
 * Numpy - 1.23.5
+
+<br>
 
 <b><ins>Instructions:</ins></b>
 1. Train chatbot by running "python training.py"
