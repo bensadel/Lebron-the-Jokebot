@@ -1,6 +1,6 @@
 # Lebron-the-Jokebot
 
-Can ask the following topics below:
+<b>Can ask the following topics below:<b>
 * Greetings
 * Goodbye
 * User name
