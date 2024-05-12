@@ -1,6 +1,6 @@
 # Lebron-the-Jokebot
 
-<b><u>Can ask the following topics below:</b>
+<b>Can ask the following topics below:</b>
 * Greetings
 * Goodbye
 * User name
