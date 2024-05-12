@@ -1,6 +1,6 @@
 # Lebron-the-Jokebot
 
-<b>Can ask the following topics below:<b>
+<b>Can ask the following topics below:</b>
 * Greetings
 * Goodbye
 * User name
@@ -9,7 +9,7 @@
 
 Credit for tutorial: https://youtu.be/1lwddP0KUEg?si=YNbkMAm0F1e_VppO
 
-<b>Tech used: <b>
+<b>Tech used: </b>
 * Python
 * Miniconda for virtual environment 
 * Tensorflow - 2.13
